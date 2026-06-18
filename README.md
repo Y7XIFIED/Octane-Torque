@@ -1,4 +1,4 @@
-# afterwards
+# Octane Torque
 
 ![Preview Demo](preview.gif)
 
