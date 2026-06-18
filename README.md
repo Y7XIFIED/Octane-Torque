@@ -3,7 +3,7 @@
 ![Preview Demo](preview.gif)
 
 ## Live Deployment
-View the live project here: [https://afterwards-three.vercel.app](https://afterwards-three.vercel.app)
+View the live project here: [https://octane-torque.vercel.app](https://octane-torque.vercel.app)
 
 ## Local Development
 1. Clone the repository
