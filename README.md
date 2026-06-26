@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/octane-torque.git
-cd octane-torque
+git clone https://github.com/Y7XIFIED/Octane-Torque.git
+cd Octane-Torque
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-octane-torque/
+Octane-Torque/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
