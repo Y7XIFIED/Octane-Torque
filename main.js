@@ -9150,7 +9150,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (imgs.length < 2) return;
     const image1 = imgs[0].getAttribute("src");
     const image2 = imgs[1].getAttribute("src");
-    const displacement = wrap3.getAttribute("data-displace") || new URL('./assets/img/effect-image.jpg', import.meta.url).href;
+    const displacement = wrap3.getAttribute("data-displace") || new URL('./assets/img/2.jpg', import.meta.url).href;
     const intensity = parseFloat(wrap3.getAttribute("data-intensity") || "0.5");
     const canvas = document.createElement("canvas");
     wrap3.appendChild(canvas);
