@@ -1,15 +1,13 @@
-# Octane Torque
+<h3 align="center"><b>OCTANE TORQUE</b></h3>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
+
+Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
+
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://octane-torque.vercel.app](https://octane-torque.vercel.app)
+
+## Preview
 ![Preview Demo](preview.gif)
 
-## Live Deployment
-View the live project here: [https://octane-torque.vercel.app](https://octane-torque.vercel.app)
-
-## Local Development
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Run the development server with `npm run dev`
-4. Build for production with `npm run build`
-
----
-*Made by Y7XIFIED*
+<div align="center"><p>Y7XIFIED</p></div>
